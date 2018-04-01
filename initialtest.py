@@ -6,7 +6,6 @@ Created on Sat Mar 31 16:08:25 2018
 @author: jenniferquach
 """
 
-#energy use per capita of India, Nepal, Pakistan from google public data
 
 
 import sqlite3
